@@ -26,10 +26,13 @@ ul{
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-start;
 }
 
 li{
     background-color: #89DEEF;
+    margin: 3px;
+    font-size: 13px;
 }
 
 html{
