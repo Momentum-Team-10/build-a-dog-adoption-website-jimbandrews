@@ -1,0 +1,19 @@
+header{
+    color: white;
+    background-color: #004175;
+    padding: 35px;
+    border-bottom-width: 15px;
+    border-bottom-color: #89DEEF;
+}
+
+h3{
+    font-family: "Oswald";
+}
+
+html{
+    font-family: "Open Sans";
+}
+
+*{
+    margin: 0;
+}
