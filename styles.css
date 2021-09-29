@@ -9,6 +9,10 @@ header{
     border-bottom: 3px solid #89DEEF;
 }
 
+h2{
+    padding: 15px;
+}
+
 h3{
     font-family: Oswald;
 }
