@@ -9,6 +9,10 @@ header{
     border-bottom: 3px solid #89DEEF;
 }
 
+#main-body{
+    padding-left: 35px;
+}
+
 h2{
     padding-top: 15px;
     padding-bottom: 15px;
