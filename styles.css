@@ -18,12 +18,18 @@ h2{
     padding-bottom: 15px;
 }
 
+.dog{
+    width: 300px;
+    text-align: left;
+}
+
 h3{
     font-family: Oswald;
 }
 
 ul{
     list-style: none;
+    box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
