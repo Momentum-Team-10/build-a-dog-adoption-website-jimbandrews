@@ -60,13 +60,15 @@ li{
     font-size: 12px;
 }
 
-/* footer{
+nav{
     display: flex;
+    justify-content: space-evenly;
 }
 
-nav{
+.nav{
     flex: 1 1 auto;
-} */
+    height: 150px;
+}
 
 html{
     font-family: "Open Sans";
