@@ -69,12 +69,12 @@ nav{
 
 .nav{
     font-family: Oswald;
+    color: white;
     flex: 1 1 auto;
-    height: 200px;
+    height: 250px;
 }
 
 #donate{
-    box-sizing: border-box;
     background: 
         linear-gradient(
             rgba(190,171,234,0.6),
@@ -83,7 +83,28 @@ nav{
         
         url(./starter_files/images/donate.jpg);
     background-size: auto, 100%;
+}
 
+#volunteer{
+    background: 
+        linear-gradient(
+            rgba(190,171,234,0.6),
+            rgba(190,171,234,0.6)
+        ),
+        
+        url(./starter_files/images/volunteer.jpg);
+    background-size: auto, 100%;
+}
+
+#location{
+    background: 
+        linear-gradient(
+            rgba(190,171,234,0.6),
+            rgba(190,171,234,0.6)
+        ),
+        
+        url(./starter_files/images/location.png);
+    background-size: auto, 100%;
 }
 
 html{
