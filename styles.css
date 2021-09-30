@@ -29,6 +29,11 @@ h2{
 
 }
 
+/* img{
+    max-width: 100%;
+    max-height: auto;
+} */
+
 .dog{
     width: 320px;
     margin: 7px;
