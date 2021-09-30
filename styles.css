@@ -18,6 +18,10 @@ h2{
     padding-bottom: 15px;
 }
 
+.description{
+    padding-bottom: 2px;
+}
+
 #all-dogs{
     max-width: 1200px;
     display: flex;
@@ -44,7 +48,8 @@ ul{
 }
 
 li{
-    padding: 2px;
+    border-radius: 20px;
+    padding: 3px;
     background-color: #89DEEF;
     margin: 2px;
     font-size: 12px;
