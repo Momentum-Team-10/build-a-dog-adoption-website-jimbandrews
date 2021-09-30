@@ -72,6 +72,7 @@ nav{
     color: white;
     flex: 1 1 auto;
     height: 250px;
+    text-align: center;
 }
 
 #donate{
@@ -105,6 +106,10 @@ nav{
         
         url(./starter_files/images/location.png);
     background-size: auto, 100%;
+}
+
+a.nav{
+    text-decoration: none;
 }
 
 html{
