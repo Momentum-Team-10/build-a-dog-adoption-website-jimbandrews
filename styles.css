@@ -24,8 +24,10 @@ h2{
 
 #all-dogs{
     max-width: 1200px;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* display: flex;
+    flex-wrap: wrap; */
 
 }
 
@@ -66,8 +68,22 @@ nav{
 }
 
 .nav{
+    font-family: Oswald;
     flex: 1 1 auto;
-    height: 150px;
+    height: 200px;
+}
+
+#donate{
+    box-sizing: border-box;
+    background: 
+        linear-gradient(
+            rgba(190,171,234),
+            rgba(190,171,234)
+        ),
+        
+        url(./starter_files/images/donate.jpg);
+    background-size: 300px;
+
 }
 
 html{
