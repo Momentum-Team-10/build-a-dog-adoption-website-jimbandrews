@@ -63,6 +63,7 @@ nav{
 .nav{
     font-family: Oswald;
     font-size: 40px;
+    text-decoration: none;
     color: white;
     flex: 1 1 auto;
     height: 250px;
