@@ -66,10 +66,10 @@ nav{
     text-decoration: none;
     color: white;
     flex: 1 1 auto;
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 350px;
     text-align: center;
-    line-height: 250px;
+    line-height: 350px;
 }
 
 #donate{
