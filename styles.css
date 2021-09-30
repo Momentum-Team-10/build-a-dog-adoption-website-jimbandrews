@@ -1,5 +1,5 @@
 body{
-    max-width: 1200px;
+    max-width: 1100px;
 }
 
 header{
@@ -18,8 +18,11 @@ h2{
     padding-bottom: 15px;
 }
 
-.all-dogs{
+#all-dogs{
     max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+
 }
 
 .dog{
