@@ -19,7 +19,7 @@ h2{
 }
 
 .dog{
-    width: 300px;
+    width: 320px;
 }
 
 h3{
@@ -36,9 +36,10 @@ ul{
 }
 
 li{
+    padding: 2px;
     background-color: #89DEEF;
-    margin: 3px;
-    font-size: 13px;
+    margin: 2px;
+    font-size: 12px;
 }
 
 html{
