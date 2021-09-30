@@ -77,12 +77,12 @@ nav{
     box-sizing: border-box;
     background: 
         linear-gradient(
-            rgba(190,171,234),
-            rgba(190,171,234)
+            rgba(190,171,234,0.6),
+            rgba(190,171,234,0.6)
         ),
         
         url(./starter_files/images/donate.jpg);
-    background-size: 300px;
+    background-size: auto, 100%;
 
 }
 
