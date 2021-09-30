@@ -60,13 +60,13 @@ li{
     font-size: 12px;
 }
 
-footer{
+/* footer{
     display: flex;
 }
 
 nav{
     flex: 1 1 auto;
-}
+} */
 
 html{
     font-family: "Open Sans";
