@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    font-family: "Open Sans";
+}
+
+header{
+    color: white;
+    background-color: #004175;
+    padding: 35px;
+    border-bottom: 3px solid #89DEEF;
+}
+
+#main-body{
+    padding-left: 35px;
+}
+
+h2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.description{
+    padding-bottom: 2px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#all-dogs{
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+.dog{
+    margin: 7px;
+    margin-left: 0px;
+}
+
+h3{
+    font-family: Oswald;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+li{
+    border-radius: 20px;
+    padding: 3px;
+    background-color: #89DEEF;
+    margin: 2px;
+    font-size: 12px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav{
+    font-family: Oswald;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    flex: 1 1 auto;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    line-height: 350px;
+}
+
+#donate{
+    background: 
+        linear-gradient(
+            rgba(166, 169, 240,0.6),
+            rgba(166, 169, 240,0.6)
+        ),
+        
+        url(./starter_files/images/donate.jpg);
+    background-size: cover;
+}
+
+#volunteer{
+    background: 
+        linear-gradient(
+            rgba(166, 169, 240,0.6),
+            rgba(166, 169, 240,0.6)
+        ),
+        
+        url(./starter_files/images/volunteer.jpg);
+    background-size: cover;
+}
+
+#location{
+    background: 
+        linear-gradient(
+            rgba(166, 169, 240,0.6),
+            rgba(166, 169, 240,0.6)
+        ),
+        
+        url(./starter_files/images/location.png);
+    background-size: cover;
+}
