@@ -20,7 +20,6 @@ h2{
 
 .dog{
     width: 300px;
-    text-align: left;
 }
 
 h3{
@@ -29,6 +28,7 @@ h3{
 
 ul{
     list-style: none;
+    padding: 0;
     box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
