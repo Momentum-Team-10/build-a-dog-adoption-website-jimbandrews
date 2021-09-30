@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    font-family: "Open Sans";
+}
+
 header{
     color: white;
     background-color: #004175;
@@ -18,19 +23,19 @@ h2{
     padding-bottom: 2px;
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+}
+
 #all-dogs{
     max-width: 1200px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-img{
-    max-width: 100%;
-    max-height: auto;
-}
 
 .dog{
-    min-width: 320px;
     margin: 7px;
     margin-left: 0px;
 }
@@ -103,14 +108,4 @@ nav{
         
         url(./starter_files/images/location.png);
     background-size: cover;
-}
-
-
-
-html{
-    font-family: "Open Sans";
-}
-
-*{
-    margin: 0;
 }
