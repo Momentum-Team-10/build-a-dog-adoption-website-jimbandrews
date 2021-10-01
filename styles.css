@@ -67,14 +67,14 @@ nav{
 
 .nav{
     font-family: Oswald;
-    font-size: 40px;
+    font-size: 4vw;
     text-decoration: none;
     color: white;
     flex: 1 1 auto;
-    height: 350px;
-    width: 350px;
+    width: 33vw;
+    max-height: 33vw;
     text-align: center;
-    line-height: 350px;
+    line-height: 33vw;
 }
 
 #donate{
