@@ -29,7 +29,7 @@ img{
 }
 
 #all-dogs{
-    max-width: 1200px;
+    max-width: 1250px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
