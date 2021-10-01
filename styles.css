@@ -86,6 +86,8 @@ nav{
         
         url(./starter_files/images/donate.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 #volunteer{
@@ -97,6 +99,8 @@ nav{
         
         url(./starter_files/images/volunteer.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 #location{
@@ -108,4 +112,6 @@ nav{
         
         url(./starter_files/images/location.png);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
