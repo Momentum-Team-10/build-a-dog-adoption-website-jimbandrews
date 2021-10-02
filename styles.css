@@ -19,7 +19,7 @@ h2{
     padding-bottom: 15px;
 }
 
-.description{
+div > p{
     padding-bottom: 2px;
 }
 
@@ -28,8 +28,8 @@ img{
     height: auto;
 }
 
-#all-dogs{
-    max-width: 1250px;
+#main-body > div{
+    max-width: 93%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
@@ -65,7 +65,7 @@ nav{
     justify-content: space-evenly;
 }
 
-.nav{
+nav > a{
     font-family: Oswald;
     font-size: 4vw;
     text-decoration: none;
