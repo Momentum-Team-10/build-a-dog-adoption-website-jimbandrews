@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: 0 auto;
+    max-width: 900px;
+}
+
 header{
     color: white;
     background-color: #004175;
@@ -68,14 +73,14 @@ nav{
 
 nav > a{
     font-family: Oswald;
-    font-size: 4vw;
+    font-size: xx-large;
     text-decoration: none;
     color: white;
     flex: 1 1 auto;
-    width: 33vw;
-    max-height: 33vw;
+    width: 300px;
+    max-height: 300px;
     text-align: center;
-    line-height: 33vw;
+    line-height: 9;
 }
 
 #donate{
